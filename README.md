@@ -3,10 +3,9 @@
 
 <!-- badges: start -->
 <!-- badges: end -->
+Exemplo de como criar um NOVO projeto no RStudio, sem precisar clicar em botões.
 
-The goal of crearjrojetor is to ...
-
-## Installation
+## Pacote usethis
 
 You can install the development version of crearjrojetor like so:
 
@@ -14,12 +13,9 @@ You can install the development version of crearjrojetor like so:
 # FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
 ```
 
-## Example
+## Creditos
 
-This is a basic example which shows you how to solve a common problem:
+Usei o ChatGPT e o Bing.com para auxiliar na busca por funções, e explicação delas, ao informar o arquivo .pdf do pacote e um exemplo de código. 
 
-``` r
-library(crearjrojetor)
-## basic example code
-```
-
+- pdf : 
+- exemplo: 
