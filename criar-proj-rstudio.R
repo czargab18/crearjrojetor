@@ -63,7 +63,21 @@ usethis::use_data(x, y)
 
 # push github----
 
-# falta configurar algumas coisas
+usethis::create_github_token()
 
+usethis::edit_r_environ()
+
+
+# usethis::browse_github_token() foi deprecated
+
+usethis::use_git_config(user.name = "czargab18",
+                        user.email = "meunomedeemail@gmail.com")
+
+usethis::git_sitrep()
+
+# usar o git
 usethis::use_git()
+
+# usar github
+usethis::use_github()
 
