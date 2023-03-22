@@ -1,5 +1,5 @@
 
-# crearjrojetor
+# criar .Rproj e version com Git e Github
 
 <!-- badges: start -->
 <!-- badges: end -->
